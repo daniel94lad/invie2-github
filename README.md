@@ -1,2 +1,2 @@
 # invie2-github
-Tus mejores guitarras inglesas
+Tus mejores guitarras inglesas by @ platzi
